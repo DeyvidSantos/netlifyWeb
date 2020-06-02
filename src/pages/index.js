@@ -7,15 +7,14 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>helo</h1>
+    <SEO title="Inicio" />
+    <h1>Netlify e uma Capivara.</h1>
     <p>Vamos ver como funciona o Netlify.</p>
     <p>BORA LÁ.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
     
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
 
