@@ -13,9 +13,8 @@ const IndexPage = () => (
     <p>BORA LÁ.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
-
-      <Link to="/pagina2/">Next > </Link>
     </div>
+    <Link to="/pagina2/">Next > </Link>
     
   </Layout>
 )

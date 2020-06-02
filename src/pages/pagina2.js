@@ -8,9 +8,9 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Inicio" />
-    <h1>Netlify e uma Capivara.</h1>
-    <p>Vamos ver como funciona o Netlify.</p>
-    <p>BORA LÁ.</p>
+    <h1>Segunda página top.</h1>
+    <p>Agora já vimos como funciona o Netlify.</p>
+    <p>BORA NÃO.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
